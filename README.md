@@ -14,7 +14,7 @@ Instead of relying on spreadsheets, email approvals, bank transfers, and manual 
 
 ## Problem
 
-A scholarship recipient at a public university in Jakarta receives a monthly education stipend, but the scholarship foundation spends several days every month manually reviewing receipts and bank transfers to verify that funds are used for tuition, books, and school supplies.
+A scholarship recipient at a public university in Philippines receives a monthly education stipend, but the scholarship foundation spends several days every month manually reviewing receipts and bank transfers to verify that funds are used for tuition, books, and school supplies.
 
 This process creates administrative overhead, slows down fund distribution, and makes auditing difficult.
 
@@ -67,7 +67,7 @@ Supports compliance requirements for scholarship providers.
 
 * Ages 18–25
 * Scholarship recipients
-* Public universities in Jakarta, Indonesia
+* Public universities in Manila, Philippines
 * Require timely access to educational stipends
 
 ### Scholarship Foundations
